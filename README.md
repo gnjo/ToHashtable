@@ -30,6 +30,11 @@ ffff=1
 
                 ".ToHashtable("[data1]");
 
+            foreach(var k in a.Keys){
+                Console.WriteLine($"{k}={a[k]}");
+            }
+
+
 ```
 
 
