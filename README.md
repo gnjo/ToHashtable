@@ -2,7 +2,12 @@
 c# string extension
 
 ```
+
 /*usage*/
+
+using StringExtensions; ///
+
+
                 var a=@"
 [data1]  
 //bbb
