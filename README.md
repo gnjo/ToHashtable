@@ -1,0 +1,2 @@
+# ToHashtable
+c# string extension
